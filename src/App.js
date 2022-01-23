@@ -19,7 +19,7 @@ function App() {
           <h1 className="text-white text-4xl font-customInterBold">
             Fun Facts About React
           </h1>
-          <ul className="list-disc p-6 font-customInterBold text-xl text-white">
+          <ul className="list-disc p-6 text-xl text-white">
             <li>Was first released in 2013</li>
             <li>Was originally created by Jordan Walke</li>
             <li>Has well over 100K stars on GitHub</li>
@@ -43,7 +43,7 @@ function App() {
           </ul>
         </div>
       </div>
-      <footer className="text-white bg-slate-900 text-center relative bottom-0 w-full">
+      <footer className="text-white bg-slate-900 text-center relative bottom-0 w-full p-2">
         Made with &#10084; Lloyd P Babu
       </footer>
     </div>
